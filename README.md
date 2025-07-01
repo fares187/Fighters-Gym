@@ -6,8 +6,8 @@ https://github.com/user-attachments/assets/50fe7440-f221-49e6-91a8-0f813f6394a7
 
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-8.0-purple.svg)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-blueviolet.svg)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
-
 ---
 
 ### Introduction
