@@ -76,26 +76,6 @@ This project was initiated to replace an aging legacy system built on Windows Fo
 
 ---
 
-### 🔧 Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-#### Prerequisites
-
-* [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
-* Visual Studio 2022 with the .NET Multi-platform App UI development workload installed.
-
-#### Installation
-
-1.  Clone the repo
-    ```sh
-    git clone https://github.com/fares187/Fighters-Gym.git
-    ```
-2.  Open the solution file (`.sln`) in Visual Studio.
-3.  Restore the NuGet packages.
-4.  Choose your target platform (Windows, Mac) and run the project.
-
----
 
 ### 📧 Contact and order
 
